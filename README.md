@@ -11,29 +11,29 @@
 
 ---
 
-### 🚀 عني (About Me)
-- 🔭 أنا مطور أنظمة وبوتات تفاعلية، متخصص في بناء بنى تحتية قوية وأمنية لسيرفرات الديسكورد.
-- ⚡ أهتم بهندسة الأكواد النظيفة، تطوير السكربتات، وتصميم تجارب مستخدم مميزة.
-- 🛠️ مؤسس مشروع سيرفر روما لأنظمة الوساطة والحماية (Roma Ecosystem).
+### 🚀 نبذة عني (About Me)
+- 🔭 **التخصص:** مطور أنظمة وبوتات تفاعلية، متخصص في بناء بنى تحتية قوية وأمنية لسيرفرات الديسكورد.
+- ⚡ **الاهتمامات:** هندسة الأكواد النظيفة، تطوير السكربتات، وتصميم تجارب مستخدم متميزة.
+- 🛠️ **المشاريع:** مؤسس مشروع سيرفر روما لأنظمة الوساطة والحماية (Roma Ecosystem).
 
 ---
 
-### 🛠️ التقنيات واللغات (Tech Stack)
+### 🛠️ المهارات والتقنيات (Tech Stack)
 
 <div align="center">
 
-| الفئة | التقنيات والأدوات |
+| الفئة التقنية | الأدوات والتقنيات المستخدمة |
 | :--- | :--- |
 | **لغات البرمجة** | JavaScript, Node.js, HTML5, CSS3 |
 | **قواعد البيانات** | MongoDB, Mongoose |
-| **تطوير البوتات** | Discord.js, Modals & Select Menus, Security Bots |
+| **تطوير البوتات** | Discord.js, Modals & Select Menus, Security Systems |
 | **أنظمة التشغيل والبيئات** | Linux, PrimeOS, Git & GitHub |
 
 </div>
 
 ---
 
-### 📊 إحصائيات جيت هب (GitHub Stats)
+### 📊 إحصائيات الحساب (GitHub Stats)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fa7dDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Fahd's GitHub Stats" />
 </div>
@@ -50,5 +50,5 @@
 </div>
 
 <div align="center">
-  <sub>⚡ Developed by Fahd | 2026</sub>
+  <sub>⚡ Developed by Fa7dDev | 2026</sub>
 </div>
