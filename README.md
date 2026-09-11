@@ -1,7 +1,6 @@
 <div align="center">
   
-  <!-- استبدل رابط الصورة برابط صورتك المباشر بعد رفعها على جيت هب -->
-  <img src="رابط_صورتك_المباشر_هنا" width="140" height="140" style="border-radius: 50%; border: 2px solid #3b82f6;" alt="Fa7dDev Avatar" />
+  <img src="https://github.com/Fa7dDev.png" width="140" height="140" style="border-radius: 50%; border: 2px solid #3b82f6;" alt="Fa7dDev Avatar" />
   
   # 👋 مرحباً، أنا فهد | Fa7dDev
   ### 💻 مطور ومؤسس أنظمة رقمية وبوتات ديسكورد متقدمة
