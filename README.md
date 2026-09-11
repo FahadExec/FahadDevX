@@ -1,18 +1,21 @@
 <div align="center">
   
-  # 👋 مرحباً، أنا فهد | FahdDevX
+  <!-- استبدل رابط الصورة برابط صورتك المباشر بعد رفعها على جيت هب -->
+  <img src="رابط_صورتك_المباشر_هنا" width="140" height="140" style="border-radius: 50%; border: 2px solid #3b82f6;" alt="Fa7dDev Avatar" />
+  
+  # 👋 مرحباً، أنا فهد | Fa7dDev
   ### 💻 مطور ومؤسس أنظمة رقمية وبوتات ديسكورد متقدمة
 
-  <img src="https://komarev.com/ghprofile/?username=FahdDevX&color=3b82f6&style=flat-square&label=Profile+Views" alt="Views" />
+  <img src="https://komarev.com/ghprofile/?username=Fa7dDev&color=3b82f6&style=flat-square&label=Profile+Views" alt="Views" />
   
 </div>
 
 ---
 
 ### 🚀 عني (About Me)
-* 🔭 أنا مطور أنظمة وبوتات تفاعلية، متخصص في بناء بنى تحتية قوية وأمنية لسيرفرات الديسكورد.
-* ⚡ أهتم بهندسة الأكواد النظيفة، تطوير السكربتات، وتصميم تجارب مستخدم مميزة.
-* 🛠️ مؤسس مشروع **سيرفر روما (Roma Ecosystem)** لأنظمة الوساطة والحماية.
+- 🔭 أنا مطور أنظمة وبوتات تفاعلية، متخصص في بناء بنى تحتية قوية وأمنية لسيرفرات الديسكورد.
+- ⚡ أهتم بهندسة الأكواد النظيفة، تطوير السكربتات، وتصميم تجارب مستخدم مميزة.
+- 🛠️ مؤسس مشروع سيرفر روما لأنظمة الوساطة والحماية (Roma Ecosystem).
 
 ---
 
@@ -22,10 +25,10 @@
 
 | الفئة | التقنيات والأدوات |
 | :--- | :--- |
-| **لغات البرمجة** | `JavaScript` `Node.js` `HTML5` `CSS3` |
-| **قواعد البيانات** | `MongoDB` `Mongoose` |
-| **تطوير البوتات** | `Discord.js` `Modals & Select Menus` `Security Bots` |
-| **أنظمة التشغيل والبيئات** | `Linux` `PrimeOS` `Git & GitHub` |
+| **لغات البرمجة** | JavaScript, Node.js, HTML5, CSS3 |
+| **قواعد البيانات** | MongoDB, Mongoose |
+| **تطوير البوتات** | Discord.js, Modals & Select Menus, Security Bots |
+| **أنظمة التشغيل والبيئات** | Linux, PrimeOS, Git & GitHub |
 
 </div>
 
@@ -33,7 +36,7 @@
 
 ### 📊 إحصائيات جيت هب (GitHub Stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahdDevX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Fahd's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fa7dDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Fahd's GitHub Stats" />
 </div>
 
 ---
@@ -41,9 +44,9 @@
 ### 📫 تواصل معي (Connect With Me)
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-FahdDevX-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Telegram](https://img.shields.io/badge/Telegram-FahdDevX-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
-[![GitHub](https://img.shields.io/badge/GitHub-FahdDevX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FahdDevX)
+[![Discord](https://img.shields.io/badge/Discord-Fa7dDev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Fa7dDev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
+[![GitHub](https://img.shields.io/badge/GitHub-Fa7dDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fa7dDev)
 
 </div>
 
