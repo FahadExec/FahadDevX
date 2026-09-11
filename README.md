@@ -1,1 +1,52 @@
-# FahadDevX
+<div align="center">
+  
+  # 👋 مرحباً، أنا فهد | FahdDevX
+  ### 💻 مطور ومؤسس أنظمة رقمية وبوتات ديسكورد متقدمة
+
+  <img src="https://komarev.com/ghprofile/?username=FahdDevX&color=3b82f6&style=flat-square&label=Profile+Views" alt="Views" />
+  
+</div>
+
+---
+
+### 🚀 عني (About Me)
+* 🔭 أنا مطور أنظمة وبوتات تفاعلية، متخصص في بناء بنى تحتية قوية وأمنية لسيرفرات الديسكورد.
+* ⚡ أهتم بهندسة الأكواد النظيفة، تطوير السكربتات، وتصميم تجارب مستخدم مميزة.
+* 🛠️ مؤسس مشروع **سيرفر روما (Roma Ecosystem)** لأنظمة الوساطة والحماية.
+
+---
+
+### 🛠️ التقنيات واللغات (Tech Stack)
+
+<div align="center">
+
+| الفئة | التقنيات والأدوات |
+| :--- | :--- |
+| **لغات البرمجة** | `JavaScript` `Node.js` `HTML5` `CSS3` |
+| **قواعد البيانات** | `MongoDB` `Mongoose` |
+| **تطوير البوتات** | `Discord.js` `Modals & Select Menus` `Security Bots` |
+| **أنظمة التشغيل والبيئات** | `Linux` `PrimeOS` `Git & GitHub` |
+
+</div>
+
+---
+
+### 📊 إحصائيات جيت هب (GitHub Stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FahdDevX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Fahd's GitHub Stats" />
+</div>
+
+---
+
+### 📫 تواصل معي (Connect With Me)
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-FahdDevX-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Telegram](https://img.shields.io/badge/Telegram-FahdDevX-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
+[![GitHub](https://img.shields.io/badge/GitHub-FahdDevX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FahdDevX)
+
+</div>
+
+<div align="center">
+  <sub>⚡ Developed by Fahd | 2026</sub>
+</div>
